@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4108671-7ae4-4a28-9c22-9053bdf06a99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tweetAnalysis/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tweetAnalysis/templates/public_tweets.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tweetAnalysis/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweetAnalysis/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/tweetAnalysis/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweetAnalysis/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tweetAnalysis/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweetAnalysis/templates/register.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tweetAnalysis/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/tweetAnalysis/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +51,11 @@
       </console-settings>
     </option>
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\SummitWorks_training\twitterAPI\templates" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,5 +77,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
